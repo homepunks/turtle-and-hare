@@ -1,5 +1,6 @@
 #include <print>
 #include <vector>
+#include <cstddef>
 #include "floyd.hpp"
 
 struct Node {
